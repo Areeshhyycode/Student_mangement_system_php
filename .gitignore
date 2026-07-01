@@ -5,4 +5,5 @@
 # OS / editor junk
 .DS_Store
 Thumbs.db
-.vscode/
+config.bat
+node_modules
